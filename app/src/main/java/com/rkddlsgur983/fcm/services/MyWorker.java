@@ -1,4 +1,4 @@
-package com.rkddlsgur983.fcm;
+package com.rkddlsgur983.fcm.services;
 
 import android.content.Context;
 import android.util.Log;

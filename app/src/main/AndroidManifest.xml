@@ -31,7 +31,7 @@
             android:resource="@drawable/ic_launcher_background" />
 
         <service
-            android:name=".MyFirebaseMessagingService"
+            android:name=".services.MyFirebaseMessagingService"
             android:exported="false"
             android:stopWithTask="false">
             <intent-filter>
